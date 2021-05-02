@@ -1,0 +1,26 @@
+.div-first{
+    position:static;
+    top: 2cm;
+    background-color: blue;
+
+}
+.div-second{
+    position: relative;
+    top: 4cm;
+    background-color: brown;
+}
+.div-third{
+    position: fixed;
+    right: 15cm;
+    background-color: chartreuse;
+}
+.div-fourth{
+    position: absolute;
+    left: 12cm;
+    background-color: coral;
+}
+.div-five{
+    position: sticky;
+    right: 10cm;
+    background-color: darkgreen;
+}
